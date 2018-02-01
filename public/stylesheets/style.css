@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.jumbotron{
+	/*background: url('../images/water.jpg');*/
+}
+a {
+  color: #00B7FF;
+}
+footer{
+	margin-top: 40px;
+	text-align: center;
+}
+.contact{margin-top: 40px;}
